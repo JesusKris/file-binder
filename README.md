@@ -38,8 +38,8 @@ This was a solo project.
 Everything was made by me.
 
 ## Main Learnings
-- Dangers of injectors
-- Inner workings of a typical injector tool
+- Dangers of file-binders
+- Inner workings of a typical file-binder tool
 
 ## Setup
 Clone the repository
